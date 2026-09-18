@@ -1,5 +1,5 @@
 # About Me:
-Undergraduate student at the University of Waterloo. I build software across the stack and I'm currently focused on coding and training machine learning models in Python to solve real-world problems. I'm also learning PCB design and high-performance computing with C++, heading toward electrical engineering for aerial robotics.  <br><br>
+Undergraduate student at the University of Waterloo. I build software across the stack and I'm currently focused on coding and training machine learning models in Python to solve real-world problems. I'm also learning high-performance computing with C++ and automation for aerial robotics.  <br><br>
 
 
 ## Socials:
